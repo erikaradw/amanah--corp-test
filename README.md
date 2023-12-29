@@ -1,8 +1,5 @@
 # Amanah Corp Technical Test
 
-Penulis: Ahmad Harori Zaki Ichsan - ahmadharorizaki@gmail.com  
-Stack: ReactJS
-
 Note: Mengacu pada [dokumentasi berikut](https://jsonplaceholder.typicode.com/guide/),  
 
 >**Important**: resource will not be really updated on the server but it will be faked as if.
